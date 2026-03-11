@@ -49,3 +49,4 @@ class HiringController:
         fairness = self.fairness_agent.evaluate(scores)
 
         print("\nFairness Result:",fairness)
+        print("\nFairness Result:",fairness)
